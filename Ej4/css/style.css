@@ -1,0 +1,33 @@
+#title{
+    background-color: rgb(224, 224, 224);
+    padding: 20px;
+}
+#title h1{
+    font-size: 60px;
+}
+.btn{
+    max-width: 100px;
+}
+.lista_paginacion{
+    list-style: none;
+    align-content: center;
+    justify-content: center;
+}
+#paginacion{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 10px;
+}
+#paginacion a:hover{
+    background-color: #3F8BCB;
+    color: white;
+}
+.button_buscar{
+    background-color: rgb(211, 211, 211);
+    margin-left: 5px;
+}
+.button_buscar:hover{
+    background-color: #3F8BCB;
+    color: white;
+}

@@ -1,0 +1,34 @@
+body p{
+    color: rgb(65, 65, 65);
+}
+
+.atributos{
+    gap:20px
+}
+nav{
+    background-color: #3D8BCB;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+nav a{
+    color: white;
+    color: white;
+}
+nav li a:hover{
+    color: rgb(196, 194, 191);
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin: 0;
+}
+.row{
+    margin-bottom: 20px;
+}
+a{
+    text-decoration: none;
+}
+.subtitle{
+    color: rgb(138, 138, 138);
+}
